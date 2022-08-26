@@ -3,8 +3,9 @@
 
 # Projeto Calculadora IMC
 
-Projeto criado com React.
-Com base no projeto B7WEB porém com algumas mudanças
+🔗 Projeto feito pensado em calcular a massa corporal de acordo com a altura
+🔗 Responsivo
+🔗 Para ver clone o projeto 
 
 ### Instalação
 
