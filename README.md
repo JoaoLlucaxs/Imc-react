@@ -15,3 +15,5 @@
 
 ### Para rodar CRA
 - `npm start`
+
+<img src="https://github.com/user-attachments/assets/4187b747-8adc-4110-a032-e2b1f09f727d"/>
